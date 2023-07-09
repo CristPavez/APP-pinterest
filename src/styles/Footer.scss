@@ -1,0 +1,9 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    &__p{
+        color: #fff;
+    }
+}
